@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 st.header("My company")
 st.write("My team consists of 12 members")
-st.subheader("Our team")
+st.subheader("team info")
 
 col1, col2, col3= st.columns(3)
 
